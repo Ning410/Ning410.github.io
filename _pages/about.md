@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ning: Recruiter @ DeepSeek"
+title: "Ning / Recruiter @ DeepSeek"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,6 +15,8 @@ I began working at High-Flyer AI in 2021 (converted from an internship to a full
 
 I am not currently exploring positions outside of my current scope.
 
+RedNote📕: [a Big Snail](https://www.xiaohongshu.com/user/profile/59c7d83f51783a785dde9d1c) 
+
 
 我是 **[DeepSeek](https://www.deepseek.com/)** 的**顶尖人才招聘官** Ning，专注计算机和人工智能行业顶尖人才招聘~很高兴认识你！😊
 
@@ -24,24 +26,26 @@ I am not currently exploring positions outside of my current scope.
 
 我目前不看机会。
 
+我的小红书📕：[一只大蜗牛](https://www.xiaohongshu.com/user/profile/59c7d83f51783a785dde9d1c)
+
 # Your Careers in DeepSeek 工作机会和岗位投递
 
 We warmly welcome talents to join **DeepSeek** and help build the future of AGI🌈. If you're interested in our openings, please send your resume to my email.
 
 📫 [Work Email](mailto:ning.wang@deepseek.com)  📫[Personal Email](mailto:ning.wang@zju.edu.cn)
 
-Detailed job descriptions are available in the **"Jobs"** section above.
+[Detailed job descriptions are available here or in the **"Jobs"** section above.](https://ning410.github.io/jobs/)
 
 我们非常欢迎各路加入DeepSeek，一起共建AGI🌈。如果你对我们的岗位有兴趣，请发送简历到我的工作邮箱~
 
 📫[工作邮箱](mailto:ning.wang@deepseek.com) 📫[个人邮箱](mailto:ning.wang@deepseek.com) 
 
-岗位描述请戳顶部 **Jobs** 栏。
+[岗位描述请戳这里或顶部 **Jobs** 栏。](https://ning410.github.io/jobs/)
 
 # About DeepSeek 关于我们
 DeepSeek以探索通用人工智能（AGI）本质为目标，以开源汇聚更多的创造力和生产力，并致力于将研究、工程和商业三者融为一体。
 
 DeepSeek is aiming to explore the essence of Artificial General Intelligence (AGI). It seeks to gather more creativity and productivity through open-source initiatives and is committed to integrating research, engineering, and commerce.
 
-Github主页 Github homepage [@DeepSeekAI ](https://github.com/deepseek-ai)
+Github [@DeepSeekAI ](https://github.com/deepseek-ai)
 
