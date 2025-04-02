@@ -2,7 +2,8 @@
 title: "深度学习研究员"
 collection: jobs
 category: manuscripts
-excerpt: '细分方向：LLM / Alignment / Backbone / RL / Multimodal / Reasoning '
+excerpt: 'DeepSeek 核心研究岗位，细分方向：LLM / Alignment / Backbone / RL / Multimodal / Reasoning 等。'
+
 
 ---
 <!-- 
