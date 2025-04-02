@@ -2,11 +2,11 @@
 title: "深度学习研究员"
 collection: jobs
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'LLM / Alignment / Backbone / RL / Multimodal / Reasoning '
+excerpt: '细分方向：LLM / Alignment / Backbone / RL / Multimodal / Reasoning '
 
 ---
 <!-- 
+permalink: /publication/2015-10-01-paper-title-number-3
 date: 2015-10-01
 venue: 'Journal 1'
 [slidesurl: 'http://academicpages.github.io/files/slides3.pdf']
