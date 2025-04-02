@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me 关于我"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me 关于我
 I am Ning, the global technical **recruiter for [DeepSeek](https://www.deepseek.com/)**, specializing in recruiting top talents in the computer science and artificial intelligence industries. It's a pleasure to meet you! 😊
 
 In 2022, I earned a dual bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/).
