@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "head.png"
   name             : "Ning WANG"
-  pronouns         : "she/her"  
-  bio              : "Recruiter @ DeepSeek | Passionate about running and traveling, and a huge fan of Kirby! ✨"
+  pronouns         : # "she/her"  
+  bio              : "Talent Hunter by day | Kirby enthusiast by night 🌟"
   location         : "Hangzhou & Beijing, P.R.China"
   employer         : "DeepSeek"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/profile.php?id=100033305826080"
+  facebook         : 100033305826080
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
