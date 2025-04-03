@@ -13,7 +13,7 @@ In 2022, I earned a dual bachelor's degree from [Zhejiang University](https://ww
 
 I began working at High-Flyer AI in 2021 (converted from an internship to a full-time role), primarily responsible for employer branding. Since 2023, I have shifted my focus to technical recruitment for DeepSeek.
 
-I am not currently exploring positions outside of my current scope.
+I am not cexploring positions outside of my current scope.
 
 RedNote📕: [a Big Snail](https://www.xiaohongshu.com/user/profile/59c7d83f51783a785dde9d1c) 
 
@@ -27,6 +27,7 @@ RedNote📕: [a Big Snail](https://www.xiaohongshu.com/user/profile/59c7d83f5178
 我目前不看机会。
 
 我的小红书📕：[一只大蜗牛](https://www.xiaohongshu.com/user/profile/59c7d83f51783a785dde9d1c)
+
 
 # Your Careers in DeepSeek 工作机会和岗位投递
 
