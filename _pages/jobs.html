@@ -1,0 +1,49 @@
+---
+layout: archive
+title: "Jobs"
+permalink: /jobs/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div class="jobs-container">
+  {% assign categories = "Development, Research, Operations, Finance, Legal, Administrative" | split: ", " %}
+  
+  {% for category in categories %}
+    <div class="job-category">
+      <h2 id="{{ category | downcase }}">{{ category }}</h2>
+      <div class="job-list">
+        {% assign jobs_in_category = site.jobs | where: "category", category %}
+        {% for job in jobs_in_category %}
+          <div class="job-item">
+            <h3>
+              <a href="{{ job.url | relative_url }}">{{ job.title }}</a>
+              <small>{{ job.location }}</small>
+            </h3>
+            <p>{{ job.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<style>
+.job-category {
+  margin-bottom: 2rem;
+}
+.job-list {
+  margin-left: 1.5rem;
+}
+.job-item {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+.job-item h3 small {
+  color: #666;
+  font-size: 0.8em;
+  margin-left: 1rem;
+}
+</style>
