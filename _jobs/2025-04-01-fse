@@ -1,0 +1,30 @@
+---
+layout: job
+title: "Senior Software Engineer"
+category: Development
+location: "Beijing/Remote"
+type: "Full-time"
+apply_link: "https://your.notion.site/application-form"
+# OR
+apply_email: "ning.wang@deepseek.com"
+
+# Optional fields
+salary: "Competitive"
+experience: "0-3 years"
+education: "Bachelor's degree or higher"
+---
+
+## Job Description
+[详细描述岗位职责...]
+
+## Requirements
+- 具体要求1
+- 具体要求2
+- 具体要求3
+
+## Benefits
+- 福利1
+- 福利2
+
+## About Our Team
+[团队介绍...]
